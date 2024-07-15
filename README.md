@@ -12,4 +12,4 @@
 
 | Mr.Sony Goyal | Sir conducted a session named "1,2 ka 4"(ek do ka char) and apart from giving us information about careers, he told many funny stories with deep meaning to motivate us...I will always remember his words- DO WHAT YOU LOVE, LOVE WHAT YOU DO...| 
 
-| Mr. Pancham | He is 4th year student of engeenering and also our senior but he have so much experience. He told us so many things about how we can know a person thoughts from their body language...|
+| Mr. Pancham | He is 4th year student of engeenering and also our senior but he have so much experience. He told us so many things about how we can know a person thoughts from their body language...he also gave us knowledge about racing cars competitions organised |
