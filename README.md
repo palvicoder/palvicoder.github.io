@@ -43,7 +43,10 @@ Today was our first day at Guru Nanak Dev Engineering College Ludhiana. We start
 <li>He also encourage us and gave us so much information.</li>
 </ui>
 
-
+| Date | Guest | Description |
+| ---- | ----- | ------------|
+| 13-07-24 |  |
+| Paragraph | Text |
 | Date | 15-07-2024 | Guest | Description |
     
 | Dr.Randhir Singh | Sir explained us how we can create an account on github |
