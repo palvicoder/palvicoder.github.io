@@ -19,7 +19,7 @@ Today was our first day at Guru Nanak Dev Engineering College Ludhiana. We start
 
 <H2> | Date | 11-07-24 | </H2>
 
-<ui>
+<ui> 
 <li>Today we got to know about our college. Our Professors provided us detailed information about the college.</li>
 <li>They gave us information about various national and international societies and clubs.</li>
 <li>They told us about the activities going in college, how many canteen are in college, about playgrounds, dispensary, banks, hostel facilities, Acitivies and events going in college.</li>
@@ -29,9 +29,11 @@ Today was our first day at Guru Nanak Dev Engineering College Ludhiana. We start
 
 <h2> | Date | 12-07-24 | </h2>
 
-Today we learnt how to use canva.<br>
-Our seniors gave us many information about canva.<br>
-And we also create designer templates.
+<ui>
+<li> Today we learnt how to use canva.</li>
+<li> Our seniors gave us many information about canva.</li>
+<li> We also create designer templates.</li>
+</ui>
 
 | Date | 15-07-2024 | Guest | Description |
     
