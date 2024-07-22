@@ -29,16 +29,20 @@ Today was our first day at Guru Nanak Dev Engineering College Ludhiana. We start
 
 <h2> | Date | 12-07-24 | </h2>
 
+<h3>CANVA</h3>
 <ui>
 <li> Today we learnt how to use canva.</li>
 <li> Our seniors gave us many information about canva.</li>
 <li> We also create designer templates.</li>
 </ui>
-<video width="500px" 
-           height="400px" 
-           controls="controls">
-        <source src= https://www.canva.com/design/DAGKs5r6E6o/FUCt7evhj22nEAKzKqTXcw/edit" type = "video/mp4")/>
-</video>
+<h3>MATHEMATICS</h3>
+<ui>
+<li>Neeraj Kumar taught us mathematics.</li>
+<li>He taught us the concepts of 12th just for revision.</li>
+<li>He gave us many questions of differentiation and taught us many formulas.</li>
+<li>He also encourage us and gave us so much information.</li>
+</ui>
+
 
 | Date | 15-07-2024 | Guest | Description |
     
