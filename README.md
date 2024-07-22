@@ -37,8 +37,9 @@ Today was our first day at Guru Nanak Dev Engineering College Ludhiana. We start
 <video width="500px" 
            height="400px" 
            controls="controls">
-        <source src= https://www.canva.com/design/DAGKs5r6E6o/FUCt7evhj22nEAKzKqTXcw/edit"/>
+        <source src= https://www.canva.com/design/DAGKs5r6E6o/FUCt7evhj22nEAKzKqTXcw/edit" type = "video/mp4")/>
 </video>
+
 | Date | 15-07-2024 | Guest | Description |
     
 | Dr.Randhir Singh | Sir explained us how we can create an account on github |
