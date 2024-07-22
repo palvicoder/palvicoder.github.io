@@ -19,12 +19,13 @@ Today was our first day at Guru Nanak Dev Engineering College Ludhiana. We start
 
 <H2> | Date | 11-07-24 | </H2>
 
-
-<p>Today we got to know about our college. Our Professors provided us detailed information about the college.<br>
-They gave us information about various national and international societies and clubs.<br>
-They told us about the activities going in college, how many canteen are in college, about playgrounds, dispensary, banks, hostel facilities, Acitivies and events going in college.<br>
-They also told us about the various scholarship schemes offered by the college.<br>
-They also motivated us for our college journey.</p>
+<ui>
+<li>Today we got to know about our college. Our Professors provided us detailed information about the college.</li>
+<li>They gave us information about various national and international societies and clubs.</li>
+<li>They told us about the activities going in college, how many canteen are in college, about playgrounds, dispensary, banks, hostel facilities, Acitivies and events going in college.</li>
+<li>They also told us about the various scholarship schemes offered by the college.</li>
+<li>They also motivated us for our college journey.</li>
+</ui>
 
 <h2> | Date | 12-07-24 | </h2>
 
