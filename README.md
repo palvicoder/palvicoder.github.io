@@ -2,7 +2,7 @@
 **This is my first repository on github**
 
 # My Introduction
-**My name is Palvi Bawa.I was born in 2006. I have completed my 10th examination from Victoria Public School(VPS)Lehra;CBSE board & 12th examination from Govt Sen Sec Smart School Dehlon;PSEB board. I am pursing Bteach in computer science and engeenering in Guru Nanak Dev Engeenering College. I love reading books specially novels and Painting is also my hobby. I don't know anything about computer languages but I am very passionate. and I know I will do it. I will give my 100℅**
+<p>**My name is Palvi Bawa.I was born in 2006. I have completed my 10th examination from Victoria Public School(VPS)Lehra;CBSE board & 12th examination from Govt Sen Sec Smart School Dehlon;PSEB board. I am pursing Bteach in computer science and engeenering in Guru Nanak Dev Engeenering College. I love reading books specially novels and Painting is also my hobby. I don't know anything about computer languages but I am very passionate. and I know I will do it. I will give my 100℅**</p>
 
 # Academics
 | Class | Year | Scores |
@@ -15,17 +15,17 @@
 <H2> | Date | 10-07-24 | </H2>
     
 
-Today was our first day at Guru Nanak Dev Engineering College Ludhiana. We started our day by praying at college Gurudwara Sahib.After taking guru ka langar we went to college auditorium. Our Principle sir of Guru Nanak Dev Engineering College encouraged us on the first day of our college. Old principal sir of college and many other faculty members motivated us. One of the guest words “no tension and full attention” stuck into my head. Various other alumni also share there experiences with us. We enjoy a lot and gain so much knowledge on our first day of college. 
+<p>Today was our first day at Guru Nanak Dev Engineering College Ludhiana. We started our day by praying at college Gurudwara Sahib.After taking guru ka langar we went to college auditorium. Our Principle sir of Guru Nanak Dev Engineering College encouraged us on the first day of our college. Old principal sir of college and many other faculty members motivated us. One of the guest words “no tension and full attention” stuck into my head. Various other alumni also share there experiences with us. We enjoy a lot and gain so much knowledge on our first day of college.</p> 
 
 <H2> | Date | 11-07-24 | </H2>
 
-<ui> 
+<p><ui> 
 <li>Today we got to know about our college. Our Professors provided us detailed information about the college.</li>
 <li>They gave us information about various national and international societies and clubs.</li>
 <li>They told us about the activities going in college, how many canteen are in college, about playgrounds, dispensary, banks, hostel facilities, Acitivies and events going in college.</li>
 <li>They also told us about the various scholarship schemes offered by the college.</li>
 <li>They also motivated us for our college journey.</li>
-</ui>
+</ui></p>
 
 <h2> | Date | 12-07-24 | </h2>
 
