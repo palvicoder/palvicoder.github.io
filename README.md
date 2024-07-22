@@ -34,6 +34,7 @@ Today was our first day at Guru Nanak Dev Engineering College Ludhiana. We start
 <li> Our seniors gave us many information about canva.</li>
 <li> We also create designer templates.</li>
 </ui>
+<img = scr "https://www.canva.com/design/DAGKs5r6E6o/FUCt7evhj22nEAKzKqTXcw/edit?utm_content=DAGKs5r6E6o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" =alt>
 
 | Date | 15-07-2024 | Guest | Description |
     
