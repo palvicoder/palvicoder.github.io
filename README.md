@@ -2,7 +2,7 @@
 **This is my first repository on github**
 
 # My Introduction
-<p> **My name is Palvi Bawa.I was born in 2006. I have completed my 10th examination from Victoria Public School(VPS)Lehra;CBSE board & 12th examination from Govt Sen Sec Smart School Dehlon;PSEB board. I am pursing Bteach in computer science and engeenering in Guru Nanak Dev Engeenering College. I love reading books specially novels and Painting is also my hobby. I don't know anything about computer languages but I am very passionate. and I know I will do it. I will give my 100℅** </p>
+<p> <b>My name is Palvi Bawa.I was born in 2006. I have completed my 10th examination from Victoria Public School(VPS)Lehra;CBSE board & 12th examination from Govt Sen Sec Smart School Dehlon;PSEB board. I am pursing Bteach in computer science and engeenering in Guru Nanak Dev Engeenering College. I love reading books specially novels and Painting is also my hobby. I don't know anything about computer languages but I am very passionate. and I know I will do it. I will give my 100℅</b> </p>
 
 # Academics
 | Class | Year | Scores |
@@ -60,3 +60,7 @@ Today we have our Code GNE class with Hardeep Rai sir he shared his fruitful kno
 <h4>ENGLISH QUIZ</h4><br>
 
 <p>After our codegne class we go to mechanical seminar hall for our english quiz.There are two quizes organised by teachers. The first quiz was based on English Communication Skills with two teams - <b>team 'C'</b>and <b>team 'D'</b> who are competing with each other. Basically team C and D are the sections of cse branch. This was very good experience and we gain fruitful knowledge. Second quiz was based on general knowledge in this quiz we got the opportunity to know about various things and personalities. This quiz is divided into seven teams and in each team there are 4 members. Both the quizzes were interactive and we got the chance to know our teachers as well as peers.</br></p>
+
+<h2> | Date | 17-07-24 | </h2>
+
+<h4>MATHEMATICS</h4>
