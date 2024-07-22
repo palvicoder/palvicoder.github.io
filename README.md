@@ -17,6 +17,15 @@
 
 Today was our first day at Guru Nanak Dev Engineering College Ludhiana. We started our day by praying at college Gurudwara Sahib.After taking guru ka langar we went to college auditorium. Our Principle sir of Guru Nanak Dev Engineering College encouraged us on the first day of our college. Old principal sir of college and many other faculty members motivated us. One of the guest words “no tension and full attention” stuck into my head. Various other alumni also share there experiences with us. We enjoy a lot and gain so much knowledge on our first day of college. 
 
+| Date | 11-07-24 |
+| ----------- | ----------- |
+
+Today we got to know about our college. Our Professors provided us detailed information about the college.
+They gave us information about various national and international societies and clubs. 
+They told us about the activities going in college, how many canteen are in college, about playgrounds, dispensary, banks, hostel facilities, Acitivies and events going in college. 
+They also told us about the various scholarship schemes offered by the college.
+They also motivated us for our college journey. 
+
 | Date | 15-07-2024 | Guest | Description |
     
 | Dr.Randhir Singh | Sir explained us how we can create an account on github |
