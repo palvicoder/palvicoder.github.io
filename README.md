@@ -29,14 +29,14 @@
 
 <h2> | Date | 12-07-24 | </h2>
 
-<p><h3>CANVA</h3>
+<p><h4>CANVA</h4>
 <ui>
 <li> Today we learnt how to use canva.</li>
 <li> Our seniors gave us many information about canva.</li>
 <li> We also create designer templates.</li>
 </ui></p>
 
-<p><h3>MATHEMATICS</h3>
+<p><h4>MATHEMATICS</h4>
 <ui>
 <li>Neeraj Kumar taught us mathematics.</li>
 <li>He taught us the concepts of 12th just for revision.</li>
@@ -53,10 +53,10 @@
 
 <h2> | Date | 16-07-24 | </h2>
 
-<h3>CODE GNE</h3><br>
+<h4>CODE GNE</h4><br>
 
 Today we have our Code GNE class with Hardeep Rai sir he shared his fruitful knowledge with us. He solve our doubts in a very good manner. He gave us so much knowledge and solve our queries. This class is really amazing.</br>
 
-<h3>ENGLISH QUIZ</h3><br>
+<h4>ENGLISH QUIZ</h4><br>
 
 <p>After our codegne class we go to mechanical seminar hall for our english quiz.There are two quizes organised by teachers. The first quiz was based on English Communication Skills with two teams - <b>team 'C'</b>and <b>team 'D'</b> who are competing with each other. Basically team C and D are the sections of cse branch. This was very good experience and we gain fruitful knowledge. Second quiz was based on general knowledge in this quiz we got the opportunity to know about various things and personalities. This quiz is divided into seven teams and in each team there are 4 members. Both the quizzes were interactive and we got the chance to know our teachers as well as peers.</br></p>
