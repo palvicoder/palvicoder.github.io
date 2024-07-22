@@ -26,6 +26,9 @@ They told us about the activities going in college, how many canteen are in coll
 They also told us about the various scholarship schemes offered by the college.
 They also motivated us for our college journey. 
 
+<h2> | Date | 12-07-24 | </h2>
+Today we learnt how to use canva. Our seniors gave us many information about canva and we also create designer templates.
+
 | Date | 15-07-2024 | Guest | Description |
     
 | Dr.Randhir Singh | Sir explained us how we can create an account on github |
