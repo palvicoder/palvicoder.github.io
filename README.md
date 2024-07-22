@@ -20,16 +20,17 @@ Today was our first day at Guru Nanak Dev Engineering College Ludhiana. We start
 <H2> | Date | 11-07-24 | </H2>
 
 
-Today we got to know about our college. Our Professors provided us detailed information about the college.
-They gave us information about various national and international societies and clubs. 
-They told us about the activities going in college, how many canteen are in college, about playgrounds, dispensary, banks, hostel facilities, Acitivies and events going in college. 
-They also told us about the various scholarship schemes offered by the college.
-They also motivated us for our college journey. 
+<p>Today we got to know about our college. Our Professors provided us detailed information about the college.<br>
+They gave us information about various national and international societies and clubs.<br>
+They told us about the activities going in college, how many canteen are in college, about playgrounds, dispensary, banks, hostel facilities, Acitivies and events going in college.<br>
+They also told us about the various scholarship schemes offered by the college.<br>
+They also motivated us for our college journey.</p>
 
 <h2> | Date | 12-07-24 | </h2>
 
 Today we learnt how to use canva.<br>
-Our seniors gave us many information about canva and we also create designer templates.
+Our seniors gave us many information about canva.<br>
+And we also create designer templates.
 
 | Date | 15-07-2024 | Guest | Description |
     
