@@ -49,3 +49,9 @@ Today was our first day at Guru Nanak Dev Engineering College Ludhiana. We start
 | 02 | 15-07-24 | Dr.Pyarelal Garg | Sir told us about human nature as well as motivate us and told us to be honest in every situation...Sir also recited many Inspirational poems...|
 | 03 | 15-07-24 | Mr.Sony Goyal | Sir conducted a session named "1,2 ka 4"(ek do ka char) and apart from giving us information about careers, he told many funny stories with deep meaning to motivate us...I will always remember his words- DO WHAT YOU LOVE, LOVE WHAT YOU DO... |
 | 04 | 16-07-24 | Mr. Pancham | He is 4th year student of engeenering and also our senior but he have so much experience. He told us so many things about how we can know a person thoughts from their body language...he also gave us knowledge about racing cars competitions organised |
+
+<h2> | Date | 16-07-24 | </h2>
+<b>CODE GNE</b>
+Today we have our Code GNE class with Hardeep Rai sir he shared his fruitful knowledge with us. He solve our doubts in a very good manner. He gave us so much knowledge and solve our queries. This class is really amazing. 
+<b>ENGLISH QUIZ</b>
+After our codegne class we go to mechanical seminar hall for our english quiz.There are two quizes organised by teachers. The first quiz was based on English Communication Skills with two teams <u>team 'C'</u> and <u>team 'D'</u> who are competing with each other. Basically team C and D are the sections of cse branch. This was very good experience and we gain fruitful knowledge. Second quiz was based on general knowledge in this quiz we got the opportunity to know about various things and personalities. This quiz is divided into seven teams and in each team there are 4 members. Both the quizzes were interactive and we got the chance to know our teachers as well as peers.
