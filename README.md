@@ -78,4 +78,5 @@ UHV-Universal Human Values.This is our first lecture of This subject. This lectu
 | 01 | 18-07-24 | Manjot Mam | <h4>UHV</h4></br>Our today's UHV lecture was taken by Manjot Mam.She taught us about the co-existence of Self and Body. She told us about the concept of sources of imagination and differentiate between the requirements of self and body. Then she told us about harmony in family and told us about value education.|
 | 02 | 18-07-24 | By Seniors | <h4>PEER INTERACTION</h4></br>In this lecture our seniors gave us peer interaction about our college.|
 | 03 | 18-07-24 | Dr. Harwinder Singh |<h4>NCC</h4></br>Sir told all about NCC and also inspired us about it's significance values.He explained us that NCC (National Cadet Corps) is a Tri-Services Organisation comprising the Army, Navy and Air Force.|
-| 04 | 18-07-24 | Jasvir Singh Grewal | |
+| 04 | 18-07-24 | Jasvir Singh Grewal | <h4>NSS</h4></br>NSS Er. Jasvir Singh Grewal introduces us about the purpose of NSS society and the work being done by the NSS society. NSS provides the opportunity to serve the society and to save the environment by planting trees and cleaning waste.|
+
