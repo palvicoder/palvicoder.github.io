@@ -44,6 +44,8 @@
 <li>He also encourage us and gave us so much information.</li>
 </ui></p>
 
+<H2> | Date | 15-07-24 | </H2>
+
 | S.no. | Date | Resource Person | Description |
 | ----- | ----- | -----| ---- |
 | 01 | 15-07-24 | Dr.Randhir Singh | Sir explained us how we can create an account on github |
