@@ -35,7 +35,7 @@
 <li> Our seniors gave us many information about canva.</li>
 <li> We also create designer templates.</li>
 </ui></p></br>
-<img src = "https://www.canva.com/design/DAGL4P6eN7w/92lurnZU-z4TXi1mHL6c6Q/edit?utm_content=DAGL4P6eN7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt = "">
+<img src = "img"https://www.canva.com/design/DAGL4P6eN7w/92lurnZU-z4TXi1mHL6c6Q/edit?utm_content=DAGL4P6eN7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt = "">
 <p><h4>MATHEMATICS</h4>
 <ui>
 <li>Neeraj Kumar taught us mathematics.</li>
