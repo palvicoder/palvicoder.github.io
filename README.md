@@ -66,3 +66,7 @@ Today we have our Code GNE class with Hardeep Rai sir he shared his fruitful kno
 <h2> | Date | 17-07-24 | </h2>
 
 <h4>MATHEMATICS</h4>
+Today lecture was amazing.. Our today's maths teacher taught us many formulas and questions. He also gave us some questions as a homework. He taught us in a very simple way and clear our doubts in an amazing way. He also motivate us. 
+
+<h4>UHV</h4>
+UHV-Universal Human Values.This is our first lecture of This subject. This lecture is taken by Neesha Mam. She is such a nice teacher. She told us many ethics, values. She gave us the knowledge about right understanding, fulfillment in relationships and physical facilities. She also told us that happiness is for the state of harmony. She also communicate with us and she asked many question from us like who u are, what you want to do. In short, the whole lecture was a new and amazing experience for us. 
