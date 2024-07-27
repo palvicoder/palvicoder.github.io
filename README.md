@@ -86,5 +86,10 @@ UHV-Universal Human Values.This is our first lecture of This subject. This lectu
 
 Mam gave us some tips and tricks about how to deal with interviews. She told us how to prepare interviews and what kind of mistakes we have to avoid. She told us that other then our hard skills (i.e Theoretical knowledge and knowledge about computer languages)we also need soft skills  (i.e way to talk with interviewers, confidence, behavior). She told all about this with a live activity by senior students of our college.She told us that when we introduce ourself professionally in an interview, start with a polite greeting, state your full name, mention your educational background and relevant work experience.She also told us - "Always Smile".
 
-<h4>Jaswinder Singh</h4>
+<h4>Dr.Jaswinder Singh</h4>
 
+This lecture is really amazing.In this session we met to a personality who is awarded by many prizes and he is nationally awarded by shiksha ratan. He gave us so much knowledge about science and mathematics. He told us how to count our body bones in a very easy and interesting way. We all know that there are 206 bones in our body but we don't know how to count them but sir made this easy for us.
+
+<h4>Department visit</h4>
+
+Now it's time to visit our CS department. One of our professor visit with us to our labs and he told us about labs and what we will do there. Then our professors also told us about various clubs of our college like data science club. They also gave us some knowledge about placements and told us our college students who worked now in a big companies with very big packages. One of our college student is now worked with Microsoft with <b>51 lacks</b>of package. 
