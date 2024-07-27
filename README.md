@@ -93,3 +93,11 @@ This lecture is really amazing.In this session we met to a personality who is aw
 <h4>Department visit</h4>
 
 Now it's time to visit our CS department. One of our professor visit with us to our labs and he told us about labs and what we will do there. Then our professors also told us about various clubs of our college like data science club. They also gave us some knowledge about placements and told us our college students who worked now in a big companies with very big packages. One of our college student is now worked with Microsoft with <b>51 lacks</b>of package. 
+
+<h2> | Date | 22-07-24 | </h2>
+
+| S.no. | Date | Resource Person | Description |
+| ----- | ----- | -----| ---- |
+| 01 | 22-07-24 | Dr.SB Singh | This session gave me so much knowledge about myself.Yes...Sir told us how to understand ourselve,how to know yourself.He told us to write on a paper - your name,branch,section,roll no, previous school,12th percentage,address then he told us to write our weakness then our strengths. He told us to write our dream that what we what to do in our life. Then he collected all the pages. Then he asked from us that is anyone write about his/her dream, weekness, strength? He said that you have to do this and you have to write daily something about your day. Because from this you'll learn who you are and what you want to do and what you actually done. This made me so much motivated and from his one session I have started to write a diary. Overall this session is amazing.|
+| 02 | 22-07-24 | Dr. Pushpinder Singh | Sir belongs to a family in which family members are mostly doctors. Sir taught us about how we get to know about our learning method.In which method we get things easily.He told us that we have to be strong in any situation whether we were facing a failure.We have to ventilate our minds ,share our problems with any of our dear ones.Just to refresh our mind.|
+| 03 | 22-07-24 | Causmic Club | Now our seniors told us everything about causmic club and they also share a link for becoming a member of this club.|
