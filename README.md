@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Palvi Bawa</h1>
 <h3 align="center">I'm currently studying B teach in CSE</h3>
+<img src = "![image](https://github.com/user-attachments/assets/75928500-600b-43e1-a4c5-bd05d6f71e84)" alt = "">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palvicoder&label=Profile%20views&color=0e75b6&style=flat" alt="palvicoder" /> </p>
 
