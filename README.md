@@ -80,3 +80,11 @@ UHV-Universal Human Values.This is our first lecture of This subject. This lectu
 | 03 | 18-07-24 | Dr. Harwinder Singh |<h4>NCC</h4></br>Sir told all about NCC and also inspired us about it's significance values.He explained us that NCC (National Cadet Corps) is a Tri-Services Organisation comprising the Army, Navy and Air Force.|
 | 04 | 18-07-24 | Jasvir Singh Grewal | <h4>NSS</h4></br>NSS Er. Jasvir Singh Grewal introduces us about the purpose of NSS society and the work being done by the NSS society. NSS provides the opportunity to serve the society and to save the environment by planting trees and cleaning waste.|
 
+<h2> | Date | 19-07-24 | </h2>
+
+<h4>Er.Kanwardeep kalra</h4>
+
+Mam gave us some tips and tricks about how to deal with interviews. She told us how to prepare interviews and what kind of mistakes we have to avoid. She told us that other then our hard skills (i.e Theoretical knowledge and knowledge about computer languages)we also need soft skills  (i.e way to talk with interviewers, confidence, behavior). She told all about this with a live activity by senior students of our college.She told us that when we introduce ourself professionally in an interview, start with a polite greeting, state your full name, mention your educational background and relevant work experience.She also told us - "Always Smile".
+
+<h4>Jaswinder Singh</h4>
+
