@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Palvi Bawa</h1>
 <h3 align="center">I'm currently studying B teach in CSE</h3>
-<img align = "right" alt = "coding" width ='100%'src = "![image](https://github.com/user-attachments/assets/c84e3d70-8da6-4bbb-b4b8-ec54fad0cd19)">
+<img align = "right" alt = "" width ='400%'src = "![image](https://github.com/user-attachments/assets/c84e3d70-8da6-4bbb-b4b8-ec54fad0cd19)">
 
 
 
