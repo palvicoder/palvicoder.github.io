@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **palvibawa203@gmail.com**
 
-- ⚡ Fun fact **I think I'm passionate about my works**
+- ⚡ Fact**I think I'm passionate about my works**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
