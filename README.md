@@ -2,10 +2,6 @@
 <h3 align="center">I'm currently studying B teach in CSE</h3>
 <img src = "https://github.com/user-attachments/assets/c84e3d70-8da6-4bbb-b4b8-ec54fad0cd19" alt = "">
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=palvicoder&label=Profile%20views&color=0e75b6&style=flat" alt="palvicoder" /> </p>
-
 - 🌱 I’m currently learning **Computer Languages**
 
 - 📫 How to reach me **palvibawa203@gmail.com**
